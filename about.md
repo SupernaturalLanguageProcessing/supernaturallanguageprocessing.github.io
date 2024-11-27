@@ -42,19 +42,12 @@ Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about va
 </div>
 
 <div class="about-wrap">
-  <!-- <div class="about-col"> -->
-  <!--   <img class="about-img" src="/assets/img/joachim.jpg" alt="jb" height="200" width="200"> -->
-  <!--   <h3><span align="center" markdown="1"> -->
-  <!--   [Joachim Bingel](mailto:bingel@di.ku.dk) -->
-  <!--   </span></h3> -->
-  <!--   Post-doctoral fellow at the University of Copenhagen (CoASTaL NLP). -->
-  <!-- </div> -->
     <div class="about-col">
     <img class="about-img" src="/assets/img/daniel.png" alt="daniel" height="200" width="200">
     <h3><span align="center" markdown="1">
-    [Daniel Hershcovich](mailto:hershcovich@di.ku.dk)
+    [Daniel Hershcovich](mailto:dh@di.ku.dk)
     </span></h3>
-    Post-doctoral fellow at the University of Copenhagen (CoASTaL NLP).
+    Tenure-Track Assistant Professor at the University of Copenhagen (CoASTaL NLP).
   </div>
 </div>
 
